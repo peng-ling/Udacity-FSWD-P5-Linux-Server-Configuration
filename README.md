@@ -3,6 +3,13 @@
 This document describes the steps I took to configure the configure a Linux server
 to run my Item Catalog website.
 
+The Servers adress is: 35.163.214.192
+
+ssh port is: 2200
+
+item database url is : http://35.163.214.192
+
+
 ## Step 1 Update Software
 
 apt-get update
